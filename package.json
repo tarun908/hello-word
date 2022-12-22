@@ -1,0 +1,15 @@
+{
+  "name": "hello-word",
+  "version": "1.0.0",
+  "description": "hey hello world project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "tarun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
